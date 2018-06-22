@@ -1,0 +1,13 @@
+Peler tomate
+Eplucher oignon
+Eplucher carottes
+Eplucher ail
+Eplucher pomme de terre
+Laver persil
+Laver coriandre
+Couper les tomates(brunoise)
+Couper les carottes(bâtonnet)
+Hacher Persil
+Hacher Coriandre
+Laver les poivrons
+Couper les poivrons(julienne)
